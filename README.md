@@ -5,4 +5,4 @@
 ```shell
 git clone https://github.com/Seevil/uplibcurl.git 
 
-cd uplibcurl && chmod u+x uplibcurl.sh && ./uplibcurl.sh ````
+cd uplibcurl && chmod u+x uplibcurl.sh && ./uplibcurl.sh 
