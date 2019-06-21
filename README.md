@@ -2,6 +2,7 @@
 
 使用方法
 
-````git clone https://github.com/Seevil/uplibcurl.git ````
+```shell
+git clone https://github.com/Seevil/uplibcurl.git 
 
-````cd uplibcurl && chmod u+x uplibcurl.sh && ./uplibcurl.sh ````
+cd uplibcurl && chmod u+x uplibcurl.sh && ./uplibcurl.sh ````
