@@ -1,4 +1,4 @@
-#Centos 7 libcurl 一键更新脚本
+# Centos 7 libcurl 一键更新脚本
 
 使用方法
 
