@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cat >> /etc/yum.repos.d/city-fan.org.rep <<EOF
+cat >> /etc/yum.repos.d/city-fan.org.repo <<EOF
 [city-fan.org]
 name=city-fan.org repository for Red Hat Enterprise Linux (and clones) $releasever ($basearch)
 #baseurl=http://mirror.city-fan.org/ftp/contrib/yum-repo/rhel$releasever/$basearch
